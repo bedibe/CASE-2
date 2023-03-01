@@ -22,10 +22,23 @@ function Contato() {
                     <Form.Label>E-mail</Form.Label>
                     <Form.Control type="email" placeholder="Digite seu e-mail" />
                 </Form.Group>
+                <Form.Group className="mb-3" controlId="CPF">
+                    <Form.Label>CPF</Form.Label>
+                    <Form.Control type="number" placeholder="Digite seu cpf" />
+                </Form.Group>
+                <Form.Group className="mb-3" controlId="Data de nascimento">
+                    <Form.Label>Data de nascimento</Form.Label>
+                    <Form.Control type="date" placeholder="Digite sua data de nascimento" />
+                </Form.Group>
+                <Form.Group className="mb-3" controlId="Celular">
+                    <Form.Label>Celular</Form.Label>
+                    <Form.Control type="tel" placeholder="Digite seu telefone" />
+                </Form.Group>
                 <Form.Group className="mb-3" controlId="Mensagem">
                     <Form.Label>Mensagem</Form.Label>
-                    <Form.Control as="textarea" rows={3} />
+                    <Form.Control as="textarea" rows={3} placeholder="Deixe seu feedback" />
                 </Form.Group>
+                
                 <Button variant="primary" type="submit">
                     Enviar contato
                 </Button>
