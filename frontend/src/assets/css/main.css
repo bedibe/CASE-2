@@ -10,3 +10,8 @@
 .nav-link{
     border-bottom: 1px solid transparent;
 }
+
+img{
+     width: 50px;
+    height: 300px;
+}
