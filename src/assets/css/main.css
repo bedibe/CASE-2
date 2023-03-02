@@ -1,0 +1,51 @@
+
+
+.conteudo-margin {
+    margin-top: 55px;
+    
+}
+
+.h1{
+    background-color: blue;
+}
+
+.sobre{
+    margin-left: 54%;
+}
+
+.desc{
+   margin-left: 20%;
+}
+
+.rodape1, .local, .rua{
+    color: white;
+}
+
+.active.nav-link {
+    color: #14c9b1 !important;
+    border-bottom: 1px solid #14c9b1 !important;
+}
+
+.nav-link{
+    border-bottom: 1px solid transparent;
+}
+
+img{
+    width: 50px;
+    height: 300px;
+}
+
+button{
+    background-color: #14c9b1;
+}
+
+footer{
+    background-color: black;
+}
+
+.img2 {
+    width: 716px;
+    height: 716px;
+
+};
+
