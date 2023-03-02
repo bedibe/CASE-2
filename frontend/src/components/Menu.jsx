@@ -26,6 +26,7 @@ function Menu() {
                     <LinkContainer to="/contato">
                         <Nav.Link>Contato</Nav.Link>
                     </LinkContainer>
+                    
                 </Nav>
             </Navbar.Collapse>
         </Container>

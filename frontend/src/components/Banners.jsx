@@ -11,7 +11,7 @@ function Banners() {
                     />
                     <Carousel.Caption>
                         
-                        <p>Um app para facilitar a vida do estudante!</p>
+                        <p>Um app para facilitar a vida do viajante!</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
