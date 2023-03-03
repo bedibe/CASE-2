@@ -7,7 +7,8 @@ serão criadas rotas /admin.</p> <br>
  <h2>Com essa proposta criamos o app : PLANEJATOUR🛬.</h2>
  <p>Somos uma empresa de tecnologia e inovação que hoje busca o seu espaço como plataforma de Planejamento de viagens! Com a missão de otimizar viagens por meio de tecnologia, conseguimos chegar cada vez mais longe, visando sempre otimizar também o tempo dos nossos viajantes. Afinal, não podemos nos esquecer do nosso princípio fundamental: libertar as pessoas de preocupações. Nisso, buscamos proporcionar aos clientes um momento de lazer e pausa na rotina, sem qualquer estresse.</p>
  <p> Para facilitar a vida do viajante, fazendo uma lista do que ele não pode esquecer em sua viagem.</p>
- 
+ <img align="center" width="50%" alt="tour" src="planejatour.png">
+
 <br>
 <p><h2>🧾 O que é o CRUD</p></h2>
 
