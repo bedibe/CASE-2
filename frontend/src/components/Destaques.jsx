@@ -27,7 +27,7 @@ function Destaques() {
                         <Card.Text>
                         Entre em contato conosco para qualquer dúvida, estamos sempre a disposição!
                         </Card.Text>
-                        <LinkContainer to="/funcionalidades">
+                        <LinkContainer to="/contato">
                             <Button variant="warning">Saiba mais</Button>
                         </LinkContainer>
                     </Card.Body>
@@ -41,7 +41,7 @@ function Destaques() {
                         <Card.Text>
                         Saiba mais sobre a planejatour e descubra mais da nossa historia!
                         </Card.Text>
-                        <LinkContainer to="/funcionalidades">
+                        <LinkContainer to="/sobre">
                         <Button variant="warning">Saiba mais</Button>
                         </LinkContainer>
                     </Card.Body>
@@ -52,3 +52,4 @@ function Destaques() {
 }
 
 export default Destaques;
+
