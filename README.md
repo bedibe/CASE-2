@@ -11,6 +11,8 @@ serão criadas rotas /admin.</p> <br>
 <br>
 <p><h2>🧾 O que é o CRUD</p></h2>
 
+![CRUD](https://user-images.githubusercontent.com/112557591/221029329-cb1870f9-df98-4241-9727-52d8b6ba95da.png)
+
 <p>CRUD são as quatro operações básicas do desenvolvimento de uma aplicação, sendo utilizadas em bases de dados relacionais fornecidas aos utilizadores do sistema.</p><br>
 
 
