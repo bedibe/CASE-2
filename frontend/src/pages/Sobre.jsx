@@ -14,7 +14,7 @@ Com a missão de otimizar viagens por meio de tecnologia, conseguimos chegar cad
 não podemos nos esquecer do nosso princípio fundamental: libertar as pessoas de preocupações. 
 Nisso, buscamos proporcionar aos clientes um momento de lazer e pausa na rotina, sem qualquer estresse.
                 </p>
-                <img className='foto' src = "/planejatour.png" />
+                <img className='foto' src = "planejatour.png" />
             </Col>
         </Row>
        
